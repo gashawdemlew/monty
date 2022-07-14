@@ -7,6 +7,7 @@
  *
  * Return: void
  */
+
 void push(stack_t **stack, unsigned int count)
 {
 	char *n = global.args;
